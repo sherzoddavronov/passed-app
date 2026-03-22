@@ -1,0 +1,19 @@
+{
+    "FixedFileInfo": {},
+    "StringFileInfo": {
+        "CompanyName": "Microsoft Corporation",
+        "FileDescription": "DirectX Diagnostic Tool",
+        "FileVersion": "10.0.19041.1",
+        "InternalName": "dxdiag.exe",
+        "LegalCopyright": "© Microsoft Corporation. All rights reserved.",
+        "OriginalFilename": "dxdiag.exe",
+        "ProductName": "Microsoft® Windows® Operating System",
+        "ProductVersion": "10.0.19041.1"
+    },
+    "VarFileInfo": {
+        "Translation": {
+            "LangID": "0409",
+            "CharsetID": "04B0"
+        }
+    }
+}

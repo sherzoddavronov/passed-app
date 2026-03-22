@@ -1,0 +1,19 @@
+# binaries
+*.exe
+*.out
+*.bin
+
+# archives
+*.zip
+*.tar
+*.gz
+
+# build
+/dist
+/build
+
+# embed assets
+embed/
+
+# OS
+.DS_Store
